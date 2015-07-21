@@ -1,9 +1,10 @@
 #include <cstdlib>
+#include <math.h>
 
-#include <ros/ros.h>
-#include <mavros/CommandBool.h>
-#include <mavros/CommandTOL.h>
-#include <mavros/SetMode.h>
+//#include <ros/ros.h>
+//#include <mavros/CommandBool.h>
+//#include <mavros/CommandTOL.h>
+//#include <mavros/SetMode.h>
 
 int main(int argc, char **argv)
 {
